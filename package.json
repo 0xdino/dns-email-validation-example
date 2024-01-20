@@ -15,6 +15,6 @@
     "ts-node": "^10.9.2"
   },
   "dependencies": {
-    "dns-email-validation": "^0.1.0"
+    "dns-email-validation": "^0.1.1"
   }
 }

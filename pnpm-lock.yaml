@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   dns-email-validation:
-    specifier: ^0.1.0
-    version: 0.1.0
+    specifier: ^0.1.1
+    version: 0.1.1
 
 devDependencies:
   '@types/node':
@@ -88,8 +88,8 @@ packages:
     engines: {node: '>=0.3.1'}
     dev: true
 
-  /dns-email-validation@0.1.0:
-    resolution: {integrity: sha512-4JyS8fgh6J0ycfxag9S7qSquLiLrWbxVZu83mj6X40h+YJD9Pp19E16Kgv2HDHStWdy5RcAlYc0y8F4XInXsdA==}
+  /dns-email-validation@0.1.1:
+    resolution: {integrity: sha512-+Iq5Lkk5QHSjaf9OCVT/I6Z7czdRXWM/A5i21a1lQAPgOlVXT0WjsRUdDXiWvALTrEvypBkbmbG4l6rBQH8iTQ==}
     engines: {node: '>= 12.9.0'}
     dev: false
 
